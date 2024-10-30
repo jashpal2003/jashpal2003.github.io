@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jashpal2003.github.io/static/css/main.78be1690.css",
+    "main.js": "/jashpal2003.github.io/static/js/main.21c34278.js",
+    "static/js/453.fb2ea9f7.chunk.js": "/jashpal2003.github.io/static/js/453.fb2ea9f7.chunk.js",
+    "index.html": "/jashpal2003.github.io/index.html",
+    "main.78be1690.css.map": "/jashpal2003.github.io/static/css/main.78be1690.css.map",
+    "main.21c34278.js.map": "/jashpal2003.github.io/static/js/main.21c34278.js.map",
+    "453.fb2ea9f7.chunk.js.map": "/jashpal2003.github.io/static/js/453.fb2ea9f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78be1690.css",
+    "static/js/main.21c34278.js"
+  ]
+}
